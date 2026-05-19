@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm a Full Stack Developer</h1>
 
 <p align="center">
-  Building web applications, learning continuously, and focused on backend, APIs, and Cybersecurity.
+  Building web applications, learning continuously.
 </p>
 
 ---
@@ -56,10 +56,10 @@
 
 ## 🎯 Interests
 
-- Cybersecurity  
+- Cybersecurity
+- Scalable web applications
 - Software architecture  
-- Problem solving  
-- Distributed systems  
+- Problem solving    
 - Learning new technologies  
 
 ---
